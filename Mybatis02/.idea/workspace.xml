@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99376701-503d-4e5a-84d2-616762f9c4e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\Java项目\JAVA开发软件\Maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA开发软件/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Program Files\Java项目\JAVA开发软件\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1XnM72C6c8so0gWBhQi32QLgRlS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mybatis03_datasourceAndix" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest01.testFindAll">
+    <configuration name="MybatisTest01.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.MybatisTest01" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest01.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.MybatisTest01" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest01.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.MybatisTest01" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest01.testFindTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.MybatisTest01" />
+      <option name="METHOD_NAME" value="testFindTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest01.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.MybatisTest01" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest01.testFindAll" />
+        <item itemvalue="JUnit.MybatisTest01.testFindByName" />
+        <item itemvalue="JUnit.MybatisTest01.testUpdate" />
+        <item itemvalue="JUnit.MybatisTest01.testFindTotal" />
+        <item itemvalue="JUnit.MybatisTest01.testFindOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99376701-503d-4e5a-84d2-616762f9c4e7" name="Default Changelist" comment="" />
+      <created>1581677233208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581677233208</updated>
+      <workItem from="1581677528562" duration="1112000" />
+      <workItem from="1581678893247" duration="1163000" />
+      <workItem from="1581767947154" duration="271000" />
+      <workItem from="1581862938797" duration="66000" />
+      <workItem from="1581932389804" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1581687563643">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1581687563643" />
+    <state x="883" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581678296683">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="883" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1581678296683" />
+    <state x="862" y="100" width="581" height="640" key="DiffContextDialog" timestamp="1581755341482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="862" y="100" width="581" height="640" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1581755341482" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1581933357950">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581933357950" />
+    <state width="1342" height="199" key="GridCell.Tab.0.bottom" timestamp="1581768219738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581768219738" />
+    <state width="1342" height="199" key="GridCell.Tab.0.center" timestamp="1581768219738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581768219738" />
+    <state width="1342" height="199" key="GridCell.Tab.0.left" timestamp="1581768219738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581768219738" />
+    <state width="1342" height="199" key="GridCell.Tab.0.right" timestamp="1581768219738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581768219738" />
+    <state width="725" height="265" key="GridCell.Tab.1.bottom" timestamp="1581760866714">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581760866714" />
+    <state width="725" height="265" key="GridCell.Tab.1.center" timestamp="1581760866714">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1581760866714" />
+    <state width="725" height="265" key="GridCell.Tab.1.left" timestamp="1581760866714">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1581760866714" />
+    <state width="725" height="265" key="GridCell.Tab.1.right" timestamp="1581760866714">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1581760866714" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1581686715962">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581686715962" />
+    <state x="862" y="100" width="581" height="640" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1581755405084">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="862" y="100" width="581" height="640" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581755405084" />
+    <state x="833" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1581932389813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="833" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1581932389813" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itybh/dao/imp/UserDaoImpl.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

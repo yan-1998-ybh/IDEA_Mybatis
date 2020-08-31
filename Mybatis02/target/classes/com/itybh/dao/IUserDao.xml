@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itybh.dao.IUserDao">
+    <select id="findAll" resultType="user">
+        select * from class;
+    </select>
+<!--    保存用户-->
+    <insert id="saveUser" parameterType="User">
+<!-- 配置插入操作后，获取插入数据的snum-->
+    <selectKey keyProperty="snum" keyColumn="snum" resultType="int" order="AFTER">
+        SELECT LAST_INSERT_ID();<!--固定写法-->
+    </selectKey>
+        insert into class(username, password ,balance)values(#{username},#{password},#{balance});
+    </insert>
+<!--    更新用户-->
+    <update id="updateUser" parameterType="uSEr">
+        update class set username=#{username},password=#{password},balance=#{balance} where snum=#{snum};
+    </update>
+<!--    删除用户-->
+    <delete id="deleteUser" parameterType="java.lang.Integer">
+        delete from  class where snum=#{usnum};
+    </delete>
+<!--   根据Snum查询用户-->
+    <select id="findBySum" parameterType="java.lang.Integer" resultType="com.itybh.domain.User">
+        select * from class where snum=#{usnum};
+    </select>
+<!--    根据名称模糊查询用户信息-->
+    <select id="findByName" parameterType="java.lang.String" resultType="uSeR">
+        select *from class where username like #{name}
+       <!--select *from class where username like '%${value}%'-->
+    </select>
+<!--    查询总记录条数-->
+    <select id="findTotal" resultType="int">
+        select count(snum) from class;
+    </select>
+
+</mapper>

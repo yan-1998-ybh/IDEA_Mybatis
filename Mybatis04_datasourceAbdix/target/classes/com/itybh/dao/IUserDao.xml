@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itybh.dao.IUserDao">
+    <resultMap id="userMap" type="USeR">
+        <result property="snum" column="snum"></result>
+        <result property="username" column="username"></result>
+        <result property="password" column="password"></result>
+        <result property="balance" column="balance"></result>
+    </resultMap>
+    <select id="findAll" resultType="user">
+        select * from class;
+    </select>
+
+<!--   根据Snum查询用户-->
+    <select id="findBySum" parameterType="java.lang.Integer" resultMap="userMap">
+        select * from class where snum=#{usnum};
+    </select>
+<!--    根据名称模糊查询用户信息-->
+    <select id="findByName" parameterType="java.lang.String"  resultMap="userMap">
+        select *from class where username like #{name}
+       <!--select *from class where username like '%${value}%'-->
+    </select>
+    <select id="findUserByVo" resultMap="userMap" parameterType="com.itybh.domain.QueryVo"></select>
+    <select id="findUserByCondition" resultMap="userMap" parameterType="user">
+        select * from class
+        <where>
+            <if test="username != null">
+                and username = #{username}
+            </if>
+        </where>
+    </select>
+
+</mapper>

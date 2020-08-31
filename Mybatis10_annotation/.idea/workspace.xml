@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aafaea4c-98a6-485e-b70f-0f0642806dce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\Maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA开发软件/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Program Files\Java项目\JAVA开发软件\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y10TBtLCduytuoANIqaefCE6t1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\Java项目\IDEA_Mybatis\Mybatis10_annotation\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AnnotationCRUDTest.testFindTotal">
+    <configuration name="AnnotationCRUDTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis10_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationCRUDTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis10_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationCRUDTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis10_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationCRUDTest.testFindTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis10_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testFindTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationCRUDTest.testSelectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis10_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testSelectById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnnotationCRUDTest.testFindTotal" />
+        <item itemvalue="JUnit.AnnotationCRUDTest.testFindByName" />
+        <item itemvalue="JUnit.AnnotationCRUDTest.testFindOne" />
+        <item itemvalue="JUnit.AnnotationCRUDTest.testSelectById" />
+        <item itemvalue="JUnit.AnnotationCRUDTest.testDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aafaea4c-98a6-485e-b70f-0f0642806dce" name="Default Changelist" comment="" />
+      <created>1582094798413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582094798413</updated>
+      <workItem from="1582094799767" duration="7826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1582095175078">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1582095175078" />
+    <state width="723" height="213" key="GridCell.Tab.0.bottom" timestamp="1582102637576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582102637576" />
+    <state width="723" height="213" key="GridCell.Tab.0.center" timestamp="1582102637576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582102637576" />
+    <state width="723" height="213" key="GridCell.Tab.0.left" timestamp="1582102637576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582102637576" />
+    <state width="723" height="213" key="GridCell.Tab.0.right" timestamp="1582102637576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582102637576" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1582100952635">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1582100952635" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/itybh/test/AnnotationCRUDTest.java</url>
+          <line>57</line>
+          <properties class="com.itybh.test.AnnotationCRUDTest" method="testDelete">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

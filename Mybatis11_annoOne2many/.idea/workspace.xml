@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f98491eb-07a7-4683-8dc0-1a96f229377b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\Maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA开发软件/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Program Files\Java项目\JAVA开发软件\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1GWzllCKZCXxsO2QtTXVc2mln" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itybh.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SecondLevelCatchTest.testFindOne">
+    <configuration name="AccountTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis11_annoOne2many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AccountTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationCRUDTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis11_annoOne2many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationCRUDTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis11_annoOne2many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AnnotationCRUDTest" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLevelCatchTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis11_annoOne2many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.SecondLevelCatchTest" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecondLevelCatchTest.testFindOne" />
+        <item itemvalue="JUnit.AnnotationCRUDTest.testFindOne" />
+        <item itemvalue="JUnit.AnnotationCRUDTest.testFindAll" />
+        <item itemvalue="JUnit.AccountTest.testFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98491eb-07a7-4683-8dc0-1a96f229377b" name="Default Changelist" comment="" />
+      <created>1582102722503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582102722503</updated>
+      <workItem from="1582102723844" duration="2822000" />
+      <workItem from="1582107188697" duration="3391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="175" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582109839824">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="883" y="175" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1582109839824" />
+    <state x="958" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1582108027588">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1582108027588" />
+    <state width="723" height="211" key="GridCell.Tab.0.bottom" timestamp="1582110590144">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582110590144" />
+    <state width="723" height="211" key="GridCell.Tab.0.center" timestamp="1582110590140">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582110590140" />
+    <state width="723" height="211" key="GridCell.Tab.0.left" timestamp="1582110590140">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582110590140" />
+    <state width="723" height="211" key="GridCell.Tab.0.right" timestamp="1582110590143">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582110590143" />
+    <state x="832" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582107186639">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="832" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1582107186639" />
+  </component>
+</project>
